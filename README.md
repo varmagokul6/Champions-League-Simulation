@@ -1,2 +1,3 @@
-# soccerTournamentSim
-Simulation program of the UEFA Champions League tournament
+# Soccer Tournament Simulation Program
+
+As an avid soccer fan, I 
