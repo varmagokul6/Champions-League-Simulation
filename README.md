@@ -8,8 +8,10 @@ NOTE: I have deleted some parts of the code for fixing.
 
 After learning Python, I decided that I wanted to engage myself in a coding project that would allow me to use all of the concepts that I had learned while perhaps learning some new concepts. And as an avid fan of simulations and soccer, I decided to create a program that would simulate the UEFA Champions League tournament.
 
-The program starts off with each domestic league in the biggest European nations fighting for the top spots in their respective leagues. Based on those results, the top four clubs from each country are taken and placed into a European tournament to claim the title of the best club in Europe. 
+The program starts off with each domestic league in the biggest European nations fighting for the top spots in their respective leagues. The image above shows an example of the simulation running with the English Premier League (and yes, my favorite club Tottenham ended up coming out on top!). Based on those results, the top four clubs from each country are taken and placed into a European tournament to claim the title of the best club in Europe. Unfortunately, Tottenham didn't win the Champions League in this simulation, but that's all right. 
 
 <p align="center">
   <img width="560" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/finals.PNG">
 </p>
+
+The image above shows an example of what the program does. It determines winners and goals scored based on the club's skill rating; the higher the difference in skill rating between two opposing clubs, the more likely they are to win the match. For fun, I also added teams that don't normally play in the Champions League, like some MLS squads, Indian Super League teams, and other random clubs. 
