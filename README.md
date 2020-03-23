@@ -10,3 +10,6 @@ After learning Python, I decided that I wanted to engage myself in a coding proj
 
 The program starts off with each domestic league in the biggest European nations fighting for the top spots in their respective leagues. Based on those results, the top four clubs from each country are taken and placed into a European tournament to claim the title of the best club in Europe. 
 
+<p align="center">
+  <img width="360" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/finals.PNG">
+</p>
