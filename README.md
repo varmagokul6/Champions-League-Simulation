@@ -2,7 +2,7 @@
 NOTE: I have deleted some parts of the code for fixing.
 
 <p align="center">
-  <img width="460" height="460" src="https://github.com/Mpayatt/HackUCI2020/blob/master/images/LogoSmall.png">
+  <img width="460" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/premier.PNG">
 </p>
 
 
