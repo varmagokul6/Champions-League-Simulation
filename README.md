@@ -22,7 +22,7 @@ The image above shows an example of what the program does. It determines winners
   <img width="860" height="260" src="https://github.com/varmagokul6/Soccer-Tournament-Simulation/blob/master/images/playerScore.PNG">
 </p>
 
-The updatedSim folder contains my current working progress on incorporating players, transfers, and financial aspects of soccer. I created a random player generator that makes a player with a random skill level and contract, and placed them on all the available teams. 
+The updatedSim folder contains my current working progress on incorporating players, transfers, and financial aspects of soccer. I created a random player generator that makes a player with a random skill level and contract, and placed them on all the available teams. With this, I was able to make a more realistic simulation that would change the skill levels of the teams with every transfer. Also, this allowed for changes to player skill level based on their performances (the more goals they scored, the more they developed, resulting in a better contract). This phase of the project is not yet 100% complete, but the progress is looking good. 
 
 <p align="center">
   <img width="860" height="260" src="https://github.com/varmagokul6/Soccer-Tournament-Simulation/blob/master/images/transferWindow.PNG">
