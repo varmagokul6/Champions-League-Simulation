@@ -16,6 +16,8 @@ The program starts off with each domestic league in the biggest European nations
 
 The image above shows an example of what the program does. It determines winners and goals scored based on the club's skill rating; the higher the difference in skill rating between two opposing clubs, the more likely they are to win the match. For fun, I also added teams that don't normally play in the Champions League, like some MLS squads, Indian Super League teams, and other random clubs. 
 
+# New Updates
+
 <p align="center">
   <img width="860" height="260" src="https://github.com/varmagokul6/Soccer-Tournament-Simulation/blob/master/images/playerScore.PNG">
 </p>
