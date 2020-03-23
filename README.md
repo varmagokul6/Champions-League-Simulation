@@ -15,3 +15,5 @@ The program starts off with each domestic league in the biggest European nations
 </p>
 
 The image above shows an example of what the program does. It determines winners and goals scored based on the club's skill rating; the higher the difference in skill rating between two opposing clubs, the more likely they are to win the match. For fun, I also added teams that don't normally play in the Champions League, like some MLS squads, Indian Super League teams, and other random clubs. 
+
+The updatedSim folder contains my current working progress on incorporating players, transfers, and financial aspects of soccer. I created a random player generator that makes a player with a random skill level and contract, and placed them on all the available teams. 
