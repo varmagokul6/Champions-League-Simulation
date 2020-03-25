@@ -1,5 +1,4 @@
 # Soccer Tournament Simulation Program
-NOTE: I have deleted some parts of the code for debugging.
 
 <p align="center">
   <img width="360" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/premier.PNG">
