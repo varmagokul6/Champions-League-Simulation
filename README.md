@@ -1,4 +1,4 @@
-# Soccer Tournament Simulation Program
+# Simulation of UEFA Champions League
 
 <p align="center">
   <img width="360" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/premier.PNG">
