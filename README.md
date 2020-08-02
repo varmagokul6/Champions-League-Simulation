@@ -1,15 +1,18 @@
 # Simulation of UEFA Champions League
 
+### Project Overview
+
+After learning Python, I decided that I wanted to engage myself in a coding project that would allow me to use all of the concepts that I had learned while perhaps learning some new concepts. And as an avid fan of simulations and soccer, I decided to create a program that would simulate the UEFA Champions League tournament. The program starts off with each domestic league in the biggest European nations fighting for the top spots in their respective leagues. The top four teams from each league are placed into the Champions League tournament. When developing the program, I decided to make it as simple as possible and not include things such as the UEFA coefficient or qualification rounds.
+
+For more information on how the UEFA Champions League tournament works, check out this link: <a href="https://en.wikipedia.org/wiki/UEFA_Champions_League#Format">Champions League Format</a>
+
+### The Simulation Environment
+
 <p align="center">
   <img width="360" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/premier.PNG">
 </p>
 
-### Project Overview
-
-
-After learning Python, I decided that I wanted to engage myself in a coding project that would allow me to use all of the concepts that I had learned while perhaps learning some new concepts. And as an avid fan of simulations and soccer, I decided to create a program that would simulate the UEFA Champions League tournament.
-
-The program starts off with each domestic league in the biggest European nations fighting for the top spots in their respective leagues. The image above shows an example of the simulation running with the English Premier League (and yes, my favorite club Tottenham ended up coming out on top!). Based on those results, the top four clubs from each country are taken and placed into a European tournament to claim the title of the best club in Europe. Unfortunately, Tottenham didn't win the Champions League in this simulation, but that's all right. 
+The image above shows an example of the simulation running with the English Premier League (and yes, my favorite club Tottenham ended up coming out on top!). Based on those results, the top four clubs from each country are taken and placed into a European tournament to claim the title of the best club in Europe. Unfortunately, Tottenham didn't win the Champions League in this simulation, but that's all right. 
 
 <p align="center">
   <img width="560" height="460" src="https://github.com/varmagokul6/soccerTournamentSim/blob/master/images/finals.PNG">
